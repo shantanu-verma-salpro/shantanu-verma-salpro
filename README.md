@@ -9,8 +9,8 @@ I'm a software developer with a passion for writing clean, efficient, and mainta
 
 ## 📦 Projects
 - [HPScrapper](https://github.com/shantanu-verma-salpro/HPScrapper) - A C++ project aimed at high performance scraping.
-- [MiniHttp](https://github.com/shantanu-verma-salpro/MiniHttp) - A Java-based high performance http framework.
-- [ds-js](https://github.com/shantanu-verma-salpro/ds-js) - Data structures implemented in JavaScript.
+- [MiniWeb](https://github.com/shantanu-verma-salpro/miniweb) - A Java-based high performance http framework.
+- [Zefny]([https://github.com/shantanu-verma-salpro/ds-js](https://github.com/shantanu-verma-salpro/Zefny-App) - Article writing platform.
 
 ## 📫 Get in Touch
 - Email: [shantanuwverma@gmail.com](mailto:shantanuwverma@gmail.com)
