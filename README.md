@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Shantanu Verma</h1>
-<h3 align="center">A full stack developer</h3>
+# Hello, I'm Shantanu Verma 👋
 
-- 👨‍💻 All of my projects are available at [https://github.com/shantanu-verma-salpro](https://github.com/shantanu-verma-salpro)
+I'm a software developer with a passion for writing clean, efficient, and maintainable code. My interests lie in web development, networking, and exploring different programming paradigms.
 
-- 💬 Ask me about **React , Spring Boot , C++**
+## 🛠️ Technologies & Tools
+- **Languages:** C++, Java, JavaScript
+- **Frameworks:** React , Spring boot , Nextjs
+- **Tools:** Git, GitHub
 
-- 📫 How to reach me **shantanuwverma@gmail.com**
+## 📦 Projects
+- [HPScrapper](https://github.com/shantanu-verma-salpro/HPScrapper) - A C++ project aimed at high performance scraping.
+- [MiniHttp](https://github.com/shantanu-verma-salpro/MiniHttp) - A Java-based high performance http framework.
+- [ds-js](https://github.com/shantanu-verma-salpro/ds-js) - Data structures implemented in JavaScript.
+
+## 📫 Get in Touch
+- Email: [shantanuwverma@gmail.com](mailto:shantanuwverma@gmail.com)
 
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanu-verma-salpro&show_icons=true&locale=en&layout=compact" alt="shantanu-verma-salpro" /></p>
+Feel free to check out my repositories and leave a star if you find something interesting! ⭐
