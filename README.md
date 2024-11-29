@@ -1,13 +1,12 @@
 # Hello, I'm Shantanu Verma 👋
 
-I'm a software developer with a passion for writing clean, efficient, and maintainable code. My interests lie in web development, networking, and exploring different programming paradigms.
+Devops , writing APIs , building Desktop applications , Data science.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C++, Java, JavaScript
-- **Frameworks:** React , Spring boot , Nextjs
-- **Tools:** Git, GitHub
+- **Languages:** C++, Java, JavaScript , Python , C#
 
 ## 📦 Projects
+- [NetGUI](https://github.com/shantanu-verma-salpro/NetGUI) - A Wrapper around IMGUI.NET , Vortice.Win32 for building Optimized Backends for Win32 and Directx11 for Imgui.
 - [HPScrapper](https://github.com/shantanu-verma-salpro/HPScrapper) - A C++ project aimed at high performance scraping.
 - [MiniWeb](https://github.com/shantanu-verma-salpro/miniweb) - A Java-based high performance http framework.
 - [Zefny](https://github.com/shantanu-verma-salpro/Zefny-App) - Next.js based article writing platform using firebase to store data.
